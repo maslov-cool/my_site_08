@@ -1,0 +1,22 @@
+.m{
+    font-size: 30px;
+  }
+.card{
+  border-radius: 10px;
+  text-align: center;
+}
+.card:hover{
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.card img{
+  border-radius: 50%;
+  width: 80%;
+  margin: auto;
+  padding: 1em;
+}
+.k{
+  margin-left: 200px;
+}
+.s{
+  border-radius: 15px;
+}

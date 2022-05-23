@@ -1,0 +1,35 @@
+.m{
+    font-size: 30px;
+    text-align: center
+  }
+  .z{
+    text-align: center;
+    margin-bottom: 20px;
+}
+  .iamg{
+    border-radius: 50%;
+    height: 80%;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 1em;
+    background: linear-gradient(DarkOrange,Yellow,ForestGreen,DeepSkyBlue);
+  }
+  .x{
+    text-align: center;
+  }
+  .c{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 0.6em;
+    border-radius: 50%;
+    margin-bottom: 1em;
+    background: linear-gradient(245deg,OrangeRed,DarkOrange,Yellow,DeepSkyBlue);
+    border-radius: 50%;
+    margin-bottom: 1em;
+    margin-right: 2px;
+  }
+  .s{
+    border-radius: 15px;
+  }
